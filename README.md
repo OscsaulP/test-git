@@ -1,2 +1,5 @@
-# test-git
-ejercicio IEXE TEC
+### Repositorio prueba
+
+IEXE Repositorio prueba 
+
+ #### Actividades GIT
